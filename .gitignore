@@ -1,7 +1,13 @@
-# Ignore all skills by default
-skills/*
+# Ignore all local skills by default
+/*
 
-# Allow Unreal skills
+# Allow repository metadata
+!.gitignore
+!LICENSE
+!README.md
+!skills/
+
+# Allow Unreal skills only
 !skills/unreal-as/
 !skills/unreal-as/**
 !skills/unreal-test/
