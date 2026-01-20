@@ -9,5 +9,7 @@
 # Allow Unreal skills only
 !unreal-as/
 !unreal-as/**
+!unreal-gameplayFramework/
+!unreal-gameplayFramework/**
 !unreal-test/
 !unreal-test/**
