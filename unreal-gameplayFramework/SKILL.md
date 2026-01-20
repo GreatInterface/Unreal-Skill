@@ -7,3 +7,4 @@ Details will be added once requirements are provided.
 - FName GetOptions filter: [references/FName.md](references/FName.md)
 - Gameplay Tag category filter: [references/GameplayTags.md](references/GameplayTags.md)
 - Inline allocators: [references/InlineAllocators.md](references/InlineAllocators.md)
+- ParallelFor optimization: [references/ParallelFor.md](references/ParallelFor.md)
