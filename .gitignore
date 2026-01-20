@@ -5,10 +5,9 @@
 !.gitignore
 !LICENSE
 !README.md
-!skills/
 
 # Allow Unreal skills only
-!skills/unreal-as/
-!skills/unreal-as/**
-!skills/unreal-test/
-!skills/unreal-test/**
+!unreal-as/
+!unreal-as/**
+!unreal-test/
+!unreal-test/**
