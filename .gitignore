@@ -1,0 +1,8 @@
+# Ignore all skills by default
+skills/*
+
+# Allow Unreal skills
+!skills/unreal-as/
+!skills/unreal-as/**
+!skills/unreal-test/
+!skills/unreal-test/**
