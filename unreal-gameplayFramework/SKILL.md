@@ -8,3 +8,4 @@ Details will be added once requirements are provided.
 - Gameplay Tag category filter: [references/GameplayTags.md](references/GameplayTags.md)
 - Inline allocators: [references/InlineAllocators.md](references/InlineAllocators.md)
 - ParallelFor optimization: [references/ParallelFor.md](references/ParallelFor.md)
+- Deferred execution (ON_SCOPE_EXIT): [references/DeferredExecution.md](references/DeferredExecution.md)
